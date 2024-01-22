@@ -24,6 +24,8 @@ public class ChanContentCalendarApplication {
 	public static void main(String[] args) {
 	    SpringApplication.run(ChanContentCalendarApplication.class, args);
 	}
+
+
 //
 //    @Bean
 //    CommandLineRunner commandLineRunner(ContentRepository repository) {
