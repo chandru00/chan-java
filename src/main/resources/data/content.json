@@ -1,0 +1,62 @@
+[
+  {
+    "id": null,
+    "title": "Getting Started with Microservices Architecture in Java",
+    "desc": "Explore the basics of building microservices in Java and learn key concepts for creating scalable and maintainable applications.",
+    "status": "PUBLISHED",
+    "contentType": "ARTICLE",
+    "dateCreated": "2022-11-15T00:00:00.000000",
+    "dateUpdated": null,
+    "url": "https://www.example.com/blog/2022/11/15/microservices-java/"
+  },
+  {
+    "id": null,
+    "title": "Securing Spring Boot APIs with OAuth 2.0",
+    "desc": "Learn how to enhance the security of your Spring Boot APIs by implementing OAuth 2.0 authentication and authorization.",
+    "status": "PUBLISHED",
+    "contentType": "ARTICLE",
+    "dateCreated": "2022-08-20T00:00:00.000000",
+    "dateUpdated": null,
+    "url": "https://www.example.com/blog/2022/08/20/spring-boot-oauth/"
+  },
+  {
+    "id": null,
+    "title": "Container Orchestration with Kubernetes and Spring Boot",
+    "desc": "Discover the integration of Spring Boot applications with Kubernetes for efficient container orchestration and deployment.",
+    "status": "PUBLISHED",
+    "contentType": "ARTICLE",
+    "dateCreated": "2022-04-10T00:00:00.000000",
+    "dateUpdated": null,
+    "url": "https://www.example.com/blog/2022/04/10/kubernetes-spring-boot/"
+  },
+  {
+    "id": null,
+    "title": "RESTful API Design Best Practices",
+    "desc": "Follow best practices for designing RESTful APIs, covering topics like resource naming, versioning, and response formats.",
+    "status": "PUBLISHED",
+    "contentType": "ARTICLE",
+    "dateCreated": "2023-03-05T00:00:00.000000",
+    "dateUpdated": null,
+    "url": "https://www.example.com/blog/2023/03/05/restful-api-design/"
+  },
+  {
+    "id": null,
+    "title": "Effective Code Review Strategies in Java Development",
+    "desc": "Learn effective strategies for conducting code reviews in Java development teams to improve code quality and collaboration.",
+    "status": "PUBLISHED",
+    "contentType": "ARTICLE",
+    "dateCreated": "2023-01-10T00:00:00.000000",
+    "dateUpdated": null,
+    "url": "https://www.example.com/blog/2023/01/10/code-review-strategies/"
+  },
+  {
+    "id": null,
+    "title": "JavaFX Modern UI Design Tutorial",
+    "desc": "Explore modern UI design principles in JavaFX and create visually appealing user interfaces for your desktop applications.",
+    "status": "PUBLISHED",
+    "contentType": "VIDEO",
+    "dateCreated": "2023-02-28T00:00:00.000000",
+    "dateUpdated": null,
+    "url": "https://youtu.be/abcdefg1234"
+  }
+]
