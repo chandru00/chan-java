@@ -6,8 +6,8 @@ import org.springframework.boot.context.properties.EnableConfigurationProperties
 
 import dev.chan.chancontentcalendar.config.ContentCalendarProperties;
 
-@EnableConfigurationProperties(ContentCalendarProperties.class)
 @SpringBootApplication
+@EnableConfigurationProperties(ContentCalendarProperties.class)
 public class ChanContentCalendarApplication {
 
 	public static void main(String[] args) {
