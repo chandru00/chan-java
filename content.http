@@ -5,6 +5,8 @@ GET http://localhost:8080/api/content
 ### Get Content by ID
 GET http://localhost:8080/api/content/1
 
+### Get Content by CC
+GET http://localhost:8080/api/content/cc
 
 
 ### Create new Content

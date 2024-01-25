@@ -28,9 +28,15 @@ public class ContentController {
 
     private final ContentRepository repository;
 
-    public ContentController(ContentRepository repository) {
+    private final ContentCollectionRepository contentCollectionRepository;
+
+    public ContentController(ContentRepository repository, ContentCollectionRepository contentCollectionRepository) {
         this.repository = repository;
+        this.contentCollectionRepository = contentCollectionRepository;
     }
+
+    @GetMapping("/cc")
+    public List<Content> last() { return this.contentCollectionRepository.findAll();}
 
     @GetMapping("")
     public List<Content> findAll() {
